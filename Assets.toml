@@ -5,7 +5,7 @@
     # contributors
     author =                ""
     # version
-    version =               "0.0.1"
+    version =               "1.0.0"
 
 # asset pack configurations
 [asset_pack]
@@ -69,6 +69,7 @@
         AW_ComboBox = "Components/AW_ComboBox"
         AW_EditableText = "Components/AW_EditableText"
         AW_EditableTextMultiLine = "Components/AW_EditableTextMultiLine"
+        AW_GradientPanel = "Components/Panels/AW_GradientPanel"
         AW_Grid = "Components/Panels/AW_Grid"
         AW_HorizontalBox = "Components/Panels/AW_HorizontalBox"
         AW_Image = "Components/AW_Image"
