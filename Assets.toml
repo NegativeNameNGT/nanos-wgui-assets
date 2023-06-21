@@ -75,6 +75,7 @@
         AW_HorizontalBox = { path = "Components/Panels/AW_HorizontalBox", key = "AW_HorizontalBox" }
         AW_Image = { path = "Components/AW_Image", key = "AW_Image" }
         AW_Overlay = { path = "Components/Panels/AW_Overlay", key = "AW_Overlay" }
+        AW_ProgressBar = { path = "Components/AW_ProgressBar", key = "AW_ProgressBar" }
         AW_ScrollBox = { path = "Components/Panels/AW_ScrollBox", key = "AW_ScrollBox" }
         AW_SizeBox = { path = "Components/Panels/AW_SizeBox", key = "AW_SizeBox" }
         AW_Slider = { path = "Components/AW_Slider", key = "AW_Slider" }
