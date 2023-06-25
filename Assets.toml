@@ -5,7 +5,7 @@
     # contributors
     author =                ""
     # version
-    version =               "1.2"
+    version =               "1.2.1"
 
 # asset pack configurations
 [asset_pack]
@@ -78,6 +78,7 @@
         AW_Overlay = { path = "Components/Panels/AW_Overlay", key = "AW_Overlay" }
         AW_ProgressBar = { path = "Components/AW_ProgressBar", key = "AW_ProgressBar" }
         AW_RetainerBox = { path = "Components/Panels/AW_RetainerBox", key = "AW_RetainerBox" }
+        AW_RichText = { path = "Components/AW_RichText", key = "AW_RichText" }
         AW_ScrollBox = { path = "Components/Panels/AW_ScrollBox", key = "AW_ScrollBox" }
         AW_SizeBox = { path = "Components/Panels/AW_SizeBox", key = "AW_SizeBox" }
         AW_Slider = { path = "Components/AW_Slider", key = "AW_Slider" }
