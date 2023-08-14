@@ -81,6 +81,7 @@
         AW_RichText = { path = "Components/AW_RichText", key = "AW_RichText" }
         AW_ScrollBox = { path = "Components/Panels/AW_ScrollBox", key = "AW_ScrollBox" }
         AW_SizeBox = { path = "Components/Panels/AW_SizeBox", key = "AW_SizeBox" }
+        AW_ScaleBox = { path = "Components/Panels/AW_ScaleBox", key = "AW_ScaleBox" }
         AW_Slider = { path = "Components/AW_Slider", key = "AW_Slider" }
         AW_SpinBox = { path = "Components/AW_SpinBox", key = "AW_SpinBox" }
         AW_Text = { path = "Components/AW_Text", key = "AW_Text" }
